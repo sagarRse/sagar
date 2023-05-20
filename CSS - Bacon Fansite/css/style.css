@@ -21,4 +21,5 @@ img:hover {
 /* id selector*/
 #heading {
     background-color: blueviolet;
+    color: blue;
 }
